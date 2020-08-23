@@ -1,11 +1,12 @@
 ---
-title: "Learning Report for Module [insert module number here"
+title: "Learning Report for Module [1]"
 date: 2020-08-12T00:00:00-04:00
 draft: false
 ---
 
-I can identify and define key concepts in (web) content management.
-I can describe and compare content management systems.
-I can manage content using established workflows.
-I can identify and employ technologies related to content management.
-I can find and use resources for self-directed learning.
+I understand the whole process of design,create and mantain personalized content for a website.
+CMS is a software that can be used to modify and manage the creation of digital content.
+I normally use wordpress and wix but excited to try hugo because of it's quick automation through github.
+I can edit,write,outline,review,approve and publish content based on which workflow.
+Through github and hugo integration,I gained the knowledge of how to deploy different technologies in content management.
+Reading through instructions of installing technologies gives you a self learning process of working with content management systems..
