@@ -9,8 +9,8 @@ draft: false
 My name is *Elly Mugisha*.I am a senior in ICT major at the University of Kentucky.I am an international student and grew up in Rwanda.Most of my time I spend it doing school work. When I’m free,I enjoy going to social gatherings,travelling and also spend lonely time doing some self reflection.
 
 My favorite netflix shows are:
--------
-1.Elite 
-2.Dynasty
-3.Ozarks
+========
+- Elite 
+- Dynasty
+- Ozarks
 
