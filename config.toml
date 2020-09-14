@@ -44,4 +44,10 @@ url = "/introduction/"
 name = "dummyresource"
 weight = 1
 url = "/dummyresource/"
+[[menu.main]]
+name = "dummyresource"
+weight = 1
+url = "/dummywalkthough/"
+
+
 
