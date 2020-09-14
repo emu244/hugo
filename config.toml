@@ -40,3 +40,9 @@ name = "Introduction"
 weight = 1
 url = "/introduction/"
 
+[params]
+[[menu.main]]
+name = "dummyresource"
+weight = 1
+url = "/dummyresource/"
+
