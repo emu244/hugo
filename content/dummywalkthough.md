@@ -3,7 +3,7 @@ title: "Dummy walkthrough"
 date: 2020-08-12T00:00:00-04:00
 draft: false
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Rutrum quisque non tellus orci ac. Hac habitasse platea dictumst quisque sagittis purus sit amet. In egestas erat imperdiet sed euismod. Diam maecenas sed enim ut sem viverra aliquet eget sit. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Id aliquet risus feugiat in ante. Massa tincidunt dui ut ornare lectus sit. Maecenas accumsan lacus vel facilisis volutpat est velit. Mi ipsum faucibus vitae aliquet nec. A cras semper auctor neque vitae tempus.
+**Lorem ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Rutrum quisque non tellus orci ac. Hac habitasse platea dictumst quisque sagittis purus sit amet. In egestas erat imperdiet sed euismod. Diam maecenas sed enim ut sem viverra aliquet eget sit. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Id aliquet risus feugiat in ante. Massa tincidunt dui ut ornare lectus sit. Maecenas accumsan lacus vel facilisis volutpat est velit. Mi ipsum faucibus vitae aliquet nec. A cras semper auctor neque vitae tempus.
 
 ![alt text](https://reverent-hugle-d49586.netlify.app/assess4.jpg)
 
