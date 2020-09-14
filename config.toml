@@ -41,17 +41,17 @@ weight = 1
 url = "/introduction/"
 
 [[menu.main]]
-name = "dummyresource"
+name = "Dummyresource"
 weight = 1
 url = "/dummyresource/"
 
 [[menu.main]]
-name = "dummywalkthough"
+name = "Dummywalkthough"
 weight = 1
 url = "/dummywalkthough/"
 
 [[menu.main]]
-name = "dummyannotated"
+name = "Dummyannotated"
 weight = 1
 url = "/dummyannotated/"
 
