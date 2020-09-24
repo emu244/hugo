@@ -1,6 +1,6 @@
 baseURL = "https://reverent-hugle-d49586.netlify.app"
 languageCode = "en-us"
-title = "Elly
+title = "Elly"
 theme = "master"
 
 [build]
