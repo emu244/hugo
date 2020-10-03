@@ -1,5 +1,5 @@
 ---
-title: "Learning Report for Module [6]"
+title: "Learning Report for Module [7]"
 date: 2020-08-12T00:00:00-04:00
 draft: false
 ---
