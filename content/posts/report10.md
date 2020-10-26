@@ -1,3 +1,8 @@
+--
+title: "Learning Report for Module [9]"
+date: 2020-08-12T00:00:00-04:00
+draft: false
+---
 - I can identify and define key concepts in (web) content management.I learnt another concept called content modeling which establishes organization in delivery and consumption of content.
 - I can describe and compare content management systems.Identifying different attributes between hugo and wordpress helped me compare CMSs.
 - I can manage content using established workflows.The continued group blog posts helps manage content using established workflows.
